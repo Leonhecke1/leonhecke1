@@ -1,16 +1,22 @@
-### Hi there 👋
+# My Profile
 
-<!--
-**Leonhecke1/leonhecke1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](Link to your profile picture)
 
-Here are some ideas to get you started:
+Hello, I'm  Leon Hecke. I'm a passionate software developer with a specialization in App development. With experience in several branches, I'm always striving to develop innovative solutions and continuously grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+- **Programming Languages:** [Javascript, Typescript, currently learning Python]
+- **Frontend Development:** [React, React-Native]
+- **Backend Development:** [Express.js, Django, Node]
+- **Databases:** [MongoDB]
+
+## Projects
+- [spotifyr](https://github.com/Leonhecke1/spotifyr): A React application to track and display Spotify statistics.
+- [bir-app](https://github.com/Leonhecke1/bir-app): A React-Native application to display free beer in your local area.
+
+
+## Contact
+- Email: [email@leon-luca.de]
+- LinkedIn: [not avaible yet]
+
+Feel free to reach out if you have any questions
