@@ -5,7 +5,7 @@ Hello, I'm  Leon Hecke. I'm a passionate software developer with a specializatio
 ## Technical Focus
 - **Programming Languages:** [Javascript, Typescript, currently learning Python]
 - **Frontend Development:** [React, React-Native]
-- **Backend Development:** [Express.js, Django, Node]
+- **Backend Development:** [Express.js, Node]
 - **Databases:** [MongoDB]
 
 ## Projects
