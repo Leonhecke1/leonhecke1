@@ -1,7 +1,5 @@
 # My Profile
 
-![Profile Picture](Link to your profile picture)
-
 Hello, I'm  Leon Hecke. I'm a passionate software developer with a specialization in App development. With experience in several branches, I'm always striving to develop innovative solutions and continuously grow.
 
 ## Technical Focus
