@@ -9,7 +9,7 @@ Hello, I'm  Leon Hecke. I'm a passionate software developer with a specializatio
 - **Databases:** [MongoDB]
 
 ## Projects
-- [spotifyr](https://github.com/Leonhecke1/spotifyr): A React application to track and display Spotify statistics.
+- [spotifyr](https://github.com/Leonhecke1/abschlusspruefung_FIAE): A collection of informations and documents.
 - [bir-app](https://github.com/Leonhecke1/bir-app): A React-Native application to display free beer in your local area.
 
 
